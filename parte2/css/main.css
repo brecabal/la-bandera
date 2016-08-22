@@ -1,0 +1,13 @@
+.yellow{
+	background-color: #E1F316;
+}
+.red{
+	background-color: red;
+}
+
+.box{
+	height: 100px;
+	width:200px; 
+	margin-bottom:10px;
+	padding:10px;
+}
